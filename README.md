@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/lafranzz/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lafranzz" height="30" width="40" /></a>
 <a href="https://discord.gg/Arsenie#6541" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Arsenie#6541" height="30" width="40" /></a>
 
-</br>
+<br/
     
 <table style="align-items: center;">
     <tr>
@@ -26,7 +26,4 @@
     </tr>
     
 </table>
-
-
-<br/>
 
