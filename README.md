@@ -1,5 +1,5 @@
 <h1 align="center">My Github Profile</h1>
-<p3 align="center"> The name's Franz Ronin! A aspiring web designer especially for UI/UX and I also have the knack for digital artistry as a hobby.<p>
+<p3 align="center"> The name's Franz Ronin! An aspiring web designer especially for UI/UX and I also have the knack for digital artistry as a hobby.<p>
 
 
 
