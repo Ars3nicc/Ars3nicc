@@ -1,6 +1,6 @@
 <h1 align="center">My Github Profile</h1>
-<p3 align="center"> The name's Franz Ronin! An aspiring web designer especially for UI/UX and I also have the knack for digital artistry as a hobby.<p>
-
+<p align="center"> The name's Franz Ronin! An aspiring web designer especially for UI/UX and I also have the knack for digital artistry as a hobby.<p>
+<p align="center"> Also a cultured gentleman when it comes to anime. Do come ask me for recommendations to watch, I got loads.</p>
 
 
 <h3 align="left">Connect with me:</h3>
