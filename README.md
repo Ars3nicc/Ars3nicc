@@ -5,7 +5,7 @@
     
     
     <br/>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ars3nicc&theme=midnight-purple&show_icons=true&locale=en" alt="ars3nicc" />
+    <image align="center" src="https://github-readme-stats.vercel.app/api?username=ars3nicc&theme=midnight-purple&show_icons=true&locale=en" alt="ars3nicc" />
     
     <table>
         <tr>
@@ -14,10 +14,10 @@
         </tr>
         <tr>
             <td>
-                <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars3nicc&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="ars3nicc" />
+                <image align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ars3nicc&theme=midnight-purple&show_icons=true&locale=en&layout=compact" alt="ars3nicc" />
             </td>
             <td>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ars3nicc&theme=midnight-purple" alt="ars3nicc" />
+                <image align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ars3nicc&theme=midnight-purple" alt="ars3nicc" />
             </td>
         </tr>
         
