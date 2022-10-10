@@ -9,7 +9,8 @@
 
 
 </div>
-    <table>
+<br/>
+    <table align="center">
         <tr>
             <th>Most Used Language</th>
             <th>Github Streaks</th>
