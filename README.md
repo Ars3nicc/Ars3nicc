@@ -7,6 +7,8 @@
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=ars3nicc&theme=midnight-purple&show_icons=true&locale=en" alt="ars3nicc" />
 
+
+</div>
     <table>
         <tr>
             <th>Most Used Language</th>
@@ -21,5 +23,4 @@
             </td>
         </tr>
         
-    </table>
-</div>
+   </table>
