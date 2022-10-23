@@ -12,7 +12,7 @@
 <br/>
     <table align="center">
         <tr>
-            <th>Most Programming Languages</th>
+            <th>Programming Languages</th>
             <th>Github Streaks</th>
         </tr>
         <tr>
