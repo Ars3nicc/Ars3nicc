@@ -4,12 +4,6 @@
 
 
 <br/>
-<div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ars3nicc&theme=tokyonight&show_icons=true&locale=en" alt="ars3nicc" />
-
-
-</div>
-<br/>
     <table align="center">
         <tr>
             <th>Programming Languages</th>
