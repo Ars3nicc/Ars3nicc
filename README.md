@@ -4,6 +4,7 @@
 
 
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ars3nicc)](https://github.com/anuraghazra/github-readme-stats)
     <table align="center">
         <tr>
             <th>Programming Languages</th>
