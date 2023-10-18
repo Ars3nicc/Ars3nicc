@@ -1,5 +1,5 @@
 <h1 align="center">My Github Profile</h1>
-<p align="center"> Hi I'm Franz! An aspiring web designer especially for UI/UX and I also have the knack for digital artistry as a hobby.<p>
+<p align="center"> Hi I'm Franz! An aspiring web designer for both UI/UX and also full-stack so to speak. I also have the knack for digital artistry as a hobby.<p>
 <p align="center"> Also a cultured gentleman when it comes to anime. Do come ask me for recommendations to watch, I got loads.</p>
 
 
