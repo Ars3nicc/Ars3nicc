@@ -23,7 +23,7 @@ My regular habits are music, digital artistry, and I love to binge-watch anime, 
 
 ## Language and Tools:
 
-<p align="center">
+<p align="">
     <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode logo" width="30" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" alt="HTML logo" width="34" style="margin: 5px;"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" alt="CSS logo" width="25" style="margin: 5px;"/>
@@ -45,7 +45,7 @@ My regular habits are music, digital artistry, and I love to binge-watch anime, 
 
 ## Connect with me!
 
-<p align="center">
+<p align="">
     <a href="https://www.linkedin.com/in/franz-ronin-manrique-4b7612242/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn logo" width="30" style="margin: 5px;"/>
     </a>
