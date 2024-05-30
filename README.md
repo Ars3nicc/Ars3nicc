@@ -1,8 +1,8 @@
 ## I'm an experienced Software Engineer and IT Solutions Consultant! 👋
 
-Hi, I'm **FRANZ**! I am a well-trained and experienced software engineer with a strong focus on full-stack development. I excel in optimizing codebases and am currently expanding my skills in advanced programming systems, including machine learning, data-driven analysis, and algorithms.
+Hi, I'm **FRANZ**! I am a well-trained and experienced software engineer specializing in full-stack development. I excel at optimizing codebases, integrating API functionalities, enhancing production pipelines, and implementing software testing. Additionally, I am expanding my expertise in advanced programming fundamentals including machine learning, data-driven analysis, data algorithms, webscraping, and data mining.
 
-My regular habits are music, digital artistry, and I love to binge-watch anime, so ask me for some recommendations! I got loads!
+My regular habits are music, digital artistry, and I love to binge-watch anime, so do ask me for some recommendations, I got loads!
 
 <br/>
 
