@@ -49,9 +49,6 @@ My regular habits are music, digital artistry, and I love to binge-watch anime, 
     <a href="https://www.linkedin.com/in/franz-ronin-manrique-4b7612242/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="LinkedIn logo" width="30" style="margin: 5px;"/>
     </a>
-    <a href="https://github.com/Ars3nicc" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="GitHub logo" width="30" style="margin: 5px;"/>
-    </a>
     <a href="mailto:franzmanrique2121@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="Gmail logo" width="30" style="margin: 5px;"/>
     </a>
