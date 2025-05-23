@@ -16,30 +16,6 @@ I'm an **experienced Software Engineer** and **IT Solutions Consultant** special
 
 ### 🛠️ Tech Stack & Tools
 
-<!-- Custom styles for icon grid and hover effects -->
-<style>
-.icons-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 12px;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 10px;
-}
-.icons-grid a, .icons-grid img {
-  transition: transform 0.2s, box-shadow 0.2s;
-  border-radius: 8px;
-  margin: 6px;
-  display: inline-block;
-  background: transparent;
-}
-.icons-grid a:hover img, .icons-grid img:hover {
-  transform: scale(1.18) rotate(-6deg);
-  box-shadow: 0 4px 24px 0 rgba(60, 180, 255, 0.19);
-  background: #f0f8ff22;
-}
-</style>
-
 <div class="icons-grid">
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="36" title="VSCode"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="36" title="JavaScript"/>
@@ -74,22 +50,6 @@ I'm an **experienced Software Engineer** and **IT Solutions Consultant** special
 ---
 
 ### 🤝 Connect with Me
-
-<!-- Icon hover effects for social links -->
-<style>
-.social-icons {
-  display: flex;
-  gap: 14px;
-  justify-content: center;
-}
-.social-icons a img {
-  transition: box-shadow 0.2s, transform 0.2s;
-}
-.social-icons a:hover img {
-  box-shadow: 0 0 16px #0a66c2, 0 0 16px #fff;
-  transform: scale(1.15);
-}
-</style>
 
 <div class="social-icons">
   <a href="https://www.linkedin.com/in/franz-ronin-manrique-4b7612242/" target="_blank">
